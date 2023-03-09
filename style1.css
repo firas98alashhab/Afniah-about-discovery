@@ -13,6 +13,19 @@ p {
   padding: 0;
 }
 
+/* FOR LIBRARY AND E-CENTER CONTENT */
+
+#content-library-and-e-center h1 {
+  font-size: 8vw;;
+}
+
+#content-library-and-e-center {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+
 /* HEADER TAGS */
 
 header {
@@ -79,18 +92,7 @@ nav ul li .active {
 
 /* MAIN CONTENT TAGS */
 
-/* FOR LIBRARY AND E-CENTER CONTENT */
 
-#content-library-and-e-center h1 {
-  font-size: 8vw;;
-}
-
-#content-library-and-e-center {
-  display: flex;
-  justify-content: center;
-  text-align: center;
-  align-items: center;
-}
 
 /* FOR ABOUT CONTENT */
 
