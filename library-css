@@ -1,0 +1,12 @@
+/* FOR LIBRARY AND E-CENTER CONTENT */
+
+#content-library-and-e-center h1 {
+  font-size: 8vw;;
+}
+
+#content-library-and-e-center {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
